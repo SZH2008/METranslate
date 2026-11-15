@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SZH2008/METranslate/blob/main/METranslate.ipynb)
+
 # METranslate: Can families like ours trust a free translator?
 
 **Track:** Languages (Veritas AI International High School Hackathon 2026)
