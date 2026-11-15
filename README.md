@@ -101,4 +101,4 @@ To test other languages, change `HIGH_LANG` / `LOW_LANG` in the settings cell (f
 - Metric: [sacrebleu](https://github.com/mjpost/sacrebleu) (chrF)
 - Libraries: [Hugging Face Transformers](https://github.com/huggingface/transformers), [Datasets](https://github.com/huggingface/datasets), pandas, NumPy, SciPy, matplotlib, [Gradio](https://www.gradio.app)
 - Tools: Google Colab (T4 GPU)
-- AI help: we used Claude (made by Anthropic) to explain stuff we hadn't learned in school yet and to help us fix bugs. We ran all the experiments and did all the human checks ourselves, and we can explain every part of the code.
+- AI help: we used Claude (made by Anthropic) to explain stuff we hadn't learned in school yet (python topics) and to help us fix bugs. We coded and ran all the experiments and did all the human checks ourselves, and we can explain every part of the code.
