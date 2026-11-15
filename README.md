@@ -6,6 +6,9 @@
 
 **Team:** Abdullah Shoaib, Sultan Ul-Arfeen Malik and Syed Zain-ul-Abideen Hussain, from Pakistan International School Jeddah (English Section)
 
+## Demo video
+https://github.com/user-attachments/assets/958ffc4c-0929-4a57-ab7a-272167ff3f42
+
 **In short:** we tested a free translator and it did okay in Arabic (53.5 chrF) but worse in Urdu (47.2). When we gave it school notices, 5 out of 20 came out wrong enough to confuse a parent. The worst one turned a nut allergy into a mint allergy! Our tool catches some of these mistakes, but you still need a real person to check.
 
 ---
